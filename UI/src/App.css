@@ -11,7 +11,7 @@ body {
   display: flex;
   max-width: 100vw; /* Adjust container to fit viewport width */
   margin: 0 auto;
-  padding: 20px;
+  padding: 10px;
   box-sizing: border-box; /* Include padding in container width */
 }
 
@@ -36,14 +36,16 @@ body {
 }
 
 .profile-info {
+  align-items: center; /* Center align items */;
   text-align: center;
   font-size: 14px; /* Smaller font size */
-  margin-top: 10px;
+  margin-top: 50px;
 }
 
 .profile-name {
+  font-size: 1.8rem;
   font-weight: bold;
-  margin: 5px 0;
+  margin: 10px 0;
 }
 
 .profile-details, .profile-location {
@@ -53,7 +55,7 @@ body {
 .social-links {
   display: flex;
   justify-content: center;
-  margin-top: 10px;
+  margin-top: 30px;
 }
 
 .social-icon {

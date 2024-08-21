@@ -15,17 +15,17 @@ function Links() {
       <div className="links">
         <div className="social-links">
           <button>
-            <a href="https://instagram.com/yourprofile" target="_blank" rel="noopener noreferrer">
+            <a href="https://instagram.com/divbishh" target="_blank" rel="noopener noreferrer">
               <FaInstagram className="social-icon" />
             </a>
           </button>
           <button>
-            <a href="https://discord.com/users/yourprofile" target="_blank" rel="noopener noreferrer">
+            <a href="https://discord.com/users/mnwlkincalabasas" target="_blank" rel="noopener noreferrer">
               <FaDiscord className="social-icon" />
             </a>
           </button>
           <button>
-            <a href="https://github.com/yourprofile" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/deenovee" target="_blank" rel="noopener noreferrer">
               <FaGithub className="social-icon" />
             </a>
           </button>

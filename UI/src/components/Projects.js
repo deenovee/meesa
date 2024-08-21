@@ -11,17 +11,17 @@ import JournalBot2 from '../assets/JournalBot2.png';
 const projectData = [
   {
     title: "La Historia",
-    description: "This is a description of Project 1.",
+    description: "Python GUI/media server that is used to store and organize different historical media types by country and date.",
     images: [LaHistoria1, LaHistoria2] 
   },
   {
     title: "PLock",
-    description: "This is a description of Project 2.",
+    description: "Python Password manager/generator that prioritizes security and ease of use.",
     images: [PLock1, PLock3] 
   },
   {
     title: "Journal Bot",
-    description: "This is a description of Project 3.",
+    description: "Python Discord bot that allows users to create and store journal entries.",
     images: [JournalBot1, JournalBot2]
   }
 ];
